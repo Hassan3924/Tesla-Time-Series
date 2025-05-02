@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+tesla-time-series/
+
 
 # Spyder project settings
 .spyderproject
